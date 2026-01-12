@@ -1,0 +1,9 @@
+{
+  "name": "node-ci-project",
+  "version": "1.0.0",
+  "scripts": {
+    "test": "node test.js",
+    "start": "node index.js"
+  }
+}
+
